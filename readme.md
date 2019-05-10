@@ -17,6 +17,9 @@ Keisuke Fujii and Yoshinobu Kawahara,
 "Dynamic mode decomposition in vector-valued reproducing kernel Hilbert spaces for extracting dynamical structure among observables", 
 Neural Networks, in press
 
+Keisuke Fujii, Naoya Takeishi, Motokazu Hojo, Yuki Inaba and Yoshinobu Kawahara, 
+"Physically-interpretable classification of network dynamics for complex collective motions",
+in preparation
 
 ## License
 
