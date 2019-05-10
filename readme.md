@@ -13,7 +13,7 @@ Run `demo_GDMD.m` for a simple demonstration of Graph DMD
 
 
 ## Reference 
-Keisuke Fujii, Yoshinobu Kawahara, 
+Keisuke Fujii and Yoshinobu Kawahara, 
 "Dynamic mode decomposition in vector-valued reproducing kernel Hilbert spaces for extracting dynamical structure among observables", 
 Neural Networks, in press
 
